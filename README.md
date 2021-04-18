@@ -4,7 +4,7 @@
 [kolumb.tk backup](https://github.com/kolumb/kolumb.github.io) — educational tools and games.
 
 ## Games
-[Asteroids](https://github.com/kolumb/asteroids) — impruved clone of that old game.<br>
+[Asteroids](https://github.com/kolumb/asteroids) — improved clone of that old game.<br>
 [Physics](https://github.com/kolumb/physics) — 2D phisics engine.<br>
 [Websocket Racing](https://github.com/kolumb/websocket-racing) — chat in Java with React interface.<br>
 [Minecraft2D](https://github.com/kolumb/Minecraft2D) — platformer with infinite world.<br>
@@ -24,5 +24,5 @@
 [Something](https://github.com/kolumb/something) — game in C/C++. [25 Pull Requests and 6 issues](https://github.com/tsoding/something/issues?page=1&q=author%3Akolumb).<br>
 [Nothing](https://github.com/kolumb/nothing) — game in C/C++. [7 Pull Requests and 7 issues](https://github.com/tsoding/nothing/issues?q=author%3Akolumb).<br>
 [pong-3.0](https://github.com/kolumb/pong-3.0) — multiplayer game in js. [5 + 2? Pull Requests and 12 issues](https://github.com/sdegueldre/pong-3.0/issues?q=author%3Akolumb).<br>
-[zzzwe](https://github.com/kolumb/zzzwe) — game in js. [7 + 1? Pull Requests](https://github.com/tsoding/zzzwe/pulls?q=author%3Akolumb).<br>
+[zzzwe](https://github.com/kolumb/zzzwe) — game in js. [8 + 1? Pull Requests](https://github.com/tsoding/zzzwe/pulls?q=author%3Akolumb).<br>
 [Something-rewrite](https://github.com/kolumb/something-rewrite) — game in C++. [1 Pull Request](https://github.com/tsoding/something-rewrite/pulls?q=author%3Akolumb).
