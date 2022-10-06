@@ -3,6 +3,7 @@
 <br> [Visual basm](https://github.com/kolumb/visual-basm) — visual interpreter of [basm](https://github.com/tsoding/bm) programming language.
 <br> [Zoomer](https://github.com/kolumb/zoomer) — port of zoomer application for Windows in C using OpenGL.
 <br> [Tsodin](https://github.com/kolumb/tsodin) — emote generator for Tsoding community.
+<br> [Graph viewer](https://github.com/kolumb/graphviewer) — tool inspired by Graphviz.
 <br> [React from scratch](https://github.com/kolumb/reactfromscratch) — experiment of implementing React.js from scratch.
 <br> [kolumb.tk backup](https://github.com/kolumb/kolumb.github.io) — educational tools and games.
 
