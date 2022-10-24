@@ -23,6 +23,7 @@
 <br> **rcui** — TUI framework in Rust. [2 Pull Requests and 1 Issue](https://github.com/tsoding/rcui/issues?q=author%3Akolumb).
 <br> **todo-rs** — Simple Interactive Terminal Todo App in Rust. [1 Pull Request](https://github.com/tsoding/todo-rs/issues?q=author%3Akolumb).
 <br> **ru.javascript.info** — a book about JavaScript translated in Russian. [2 Pull Requests](https://github.com/javascript-tutorial/ru.javascript.info/issues?q=author%3Akolumb).
+<br> **uk.javascript.info** — a book about JavaScript translated in Ukrainian. [2 Pull Requests](https://github.com/javascript-tutorial/uk.javascript.info/issues?q=author%3Akolumb).
 <br> **aids** — replacement for std of C++. [1 Pull Request](https://github.com/rexim/aids/issues?q=author%3Akolumb).
 <br> **sv** — Simple String_View implementation for C programming language. [1 Pull Request](https://github.com/tsoding/sv/issues?q=author%3Akolumb).
 <br> **OpenGL Template** — setup for starting small OpenGL projects. [2 Pull Requests](https://github.com/tsoding/opengl-template/issues?q=author%3Akolumb).
