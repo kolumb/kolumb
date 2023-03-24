@@ -1,7 +1,7 @@
 ## Tools
 [Learning WASM](https://github.com/kolumb/learning-wasm) — notes of my process of learning WebAssembly bytecode. Also a script to automate its building.
 <br> [Visual basm](https://github.com/kolumb/visual-basm) — visual interpreter of [basm](https://github.com/tsoding/bm) programming language.
-<br> [Zoomer](https://github.com/kolumb/zoomer) — port of zoomer application for Windows in C using OpenGL.
+<br> [Zoomer](https://github.com/kolumb/zoomer) — copy of zoomer application but for Windows in C using OpenGL.
 <br> [Tsodin](https://github.com/kolumb/tsodin) — emote generator for Tsoding community.
 <br> [Graph viewer](https://github.com/kolumb/graphviewer) — tool inspired by Graphviz.
 <br> [React from scratch](https://github.com/kolumb/reactfromscratch) — experiment of implementing React.js from scratch.
