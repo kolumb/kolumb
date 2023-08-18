@@ -11,7 +11,6 @@
 [Asteroids](https://github.com/kolumb/asteroids) — improved clone of that old game.
 <br> [Physics](https://github.com/kolumb/physics) — 2D physics engine.
 <br> [Websocket Racing](https://github.com/kolumb/websocket-racing) — chat in Java with React interface.
-<br> [Minecraft2D](https://github.com/kolumb/Minecraft2D) — platformer with infinite world.
 <br> [Boilerplate](https://github.com/kolumb/boilerplate) — template for JavaScript projects.
 
 ## Contributions
